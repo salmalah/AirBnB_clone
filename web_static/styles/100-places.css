@@ -6,7 +6,6 @@
   width: 100%;
 }
 
-/* Article style */
 .places article {
   border: 1px solid #ff5a5f;
   border-radius: 4px;
@@ -58,10 +57,6 @@
   font-weight: bold;
   margin-bottom: 7px;
   margin-top: 20px;
-}
-.places .reviews ul
-{
-list-style-type: none;
 }
 .places .reviews p
 {
